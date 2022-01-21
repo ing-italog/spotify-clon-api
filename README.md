@@ -1,9 +1,7 @@
-# spotify-clon-api
-
-#Front-end
+# Front-end
 api for front-end `https://github.com/ing-italog/spotify-clon-angular`
 
-#Install node_modules
+# Install node_modules
 into de terminal proyect execute `npm Install`
 
 
